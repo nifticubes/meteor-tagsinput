@@ -1,0 +1,8 @@
+{
+  "name": "jquerytagsinputjs",
+  "description": "Meteor package for jQuery Tags Input plugin",
+  "homepage": "https://github.com/nifticubes/meteor-tagsinput",
+  "author": "Eddie Kollar <eddie.kollar@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/nifticubes/meteor-tagsinput.git"
+}
